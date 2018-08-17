@@ -1,1 +1,0 @@
-This is the public facing site that is bundled from the web.
