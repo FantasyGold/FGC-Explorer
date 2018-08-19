@@ -28,7 +28,7 @@ settings.json
 .idea
 *~
 *.ico
-*.png
+
 
 package-lock.json
 
